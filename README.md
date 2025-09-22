@@ -101,16 +101,12 @@ Edit
 └── ...
 📈 Future Enhancements
 📚 Add practical/lab session support
-
 🔄 Add teacher preferences / availability constraints
-
 🧠 Integrate optimization algorithms for smarter scheduling
-
 📤 Export timetable as PDF/Excel
-
-📱 Make mobile-friendly and responsive
 
 👤 Author
 Aryan Tiwari
 GitHub: @ryan171807
-Email: ryan171807@gmail.com
+Email: aryan1tiwari71807@gmail.com
+
